@@ -13,8 +13,9 @@ img{
     display: flex;
 }
 
-a{
+a {
     text-decoration: none;
+    color: white; /* 텍스트 색상을 화이트로 설정 */
 }
 
 body{
